@@ -7,18 +7,8 @@ A comprehensive data science and machine learning project for classifying wine t
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-latest-orange.svg)](https://scikit-learn.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Quick Start](#quick-start)
-- [Dataset Information](#dataset-information)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+## Project Done at IBM Skillsbuild Summer Internship Program - 
+<img width="1123" height="797" alt="image" src="https://github.com/user-attachments/assets/3335f282-b120-46b0-818a-e6a183adf836" />
 
 ## 🎯 Overview
 
